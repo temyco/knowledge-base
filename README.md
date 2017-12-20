@@ -1,4 +1,4 @@
-# KnowledgeBase
+# Knowledge Base
 Team Technologies's Knowledge Base
 
 ## iOS Competency
