@@ -45,7 +45,7 @@ NSURLSession basics, encoding/decoding of URL data, lifecycle of a URL Session |
 *Response handling* | |
 JSONSerialization, error handling | Codable/Decodable, NSCoding |
 *Building a network layer* | |
-Alamofire, mappers | Moya |
+Alamofire, mappers | Moya , CFNetwork|
 
 
 ## Deployment
@@ -54,3 +54,100 @@ Qualified | Competent | Expert
 :--|:--|:--
 Understanding of code signing, provisioning profiles,
 app schemes configuration. Launching app on device | Working with iTunes Connect, App Review Guidelines. Build automation, beta-testing tools and deployment platforms. Fastlane | Advanced automation skills (plugins, scripts)
+
+## iOS essentials
+
+Qualified | Competent | Expert
+:--|:--|:--
+UIViewController lifecycle, iOS app lifecycle, NotificationCenter |  Working with filesystem, background modes, xcode project structure |  |
+
+## Multithreading
+
+Qualified | Competent | Expert
+:--|:--|:--
+*Grand Central Dispatch* | |
+basic knowledge about multithreading and concurrent programming, deadlocks, race conditions. async vs sync, main vs background |  Dispatch queues, units of work, prioritizing, quality of service, timing (time & after) | Dispatch groups, semaphores, dispatch I/O, dispatch sources |
+*NSOperation* | |
+basic knowledge about multithreading and concurrent programming, deadlocks, race conditions. |  Operation executing, cancelling and configuring. Operation states. NSOperationQueue. Subclassing and overriding. BlockOperation | Operation dependencies,
+NSOperationQueue |
+*Thread (NSThread)* | |
+| | Ability to work with Thread. Initializing, starting/stopping, state handling, prioritizing. Locks, NSRunLoop |
+
+## Multithreading
+
+Qualified | Competent | Expert
+:--|:--|:--
+*Grand Central Dispatch* | |
+basic knowledge about multithreading and concurrent programming, deadlocks, race conditions. async vs sync, main vs background |  Dispatch queues, units of work, prioritizing, quality of service, timing (time & after) | Dispatch groups, semaphores, dispatch I/O, dispatch sources. Interprocess communication, XPC Services |
+*NSOperation* | |
+basic knowledge about multithreading and concurrent programming, deadlocks, race conditions. |  Operation executing, cancelling and configuring. Operation states. NSOperationQueue. Subclassing and overriding. BlockOperation | Operation dependencies,
+NSOperationQueue |
+*Thread (NSThread)* | |
+| | Ability to work with Thread. Initializing, starting/stopping, state handling, prioritizing. Locks, NSRunLoop. |
+
+## Marketing
+
+Qualified | Competent | Expert
+:--|:--|:--
+Push Notifications, URL schemes |  Deep linking, Universal links, App Indexing | Advertisements (AdSupport, AdMob etc) |
+
+## Testing
+
+Qualified | Competent | Expert
+:--|:--|:--
+Basic knowledge of unit tests |  Complex unit tests, XCTest, Quick/Nimble (Kiwi for Obj-C) | TDD, UI tests, web testing and debugging |
+
+## Xcode build system
+
+Qualified | Competent | Expert
+:--|:--|:--
+ | xcodebuild, xcrun. Targets, bundles, frameworks, libraries. pbxproj, xcconfig, xcodeproj, xcworkspace, xcscheme, xctoolchain. Build phases, shell scripts, build rules, build configurations. | lldb, lipo, llbuild, swift package manager, linker.
+Flags |
+
+## Security
+
+Qualified | Competent | Expert
+:--|:--|:--
+ | Keychain, iOS security guidelines, TouchID, FaceID | Security framework - authorization and authentication, code signing, cryptography, result codes. Secure coding guide. iOS security overview |
+ 
+ ## Performance
+ 
+ Qualified | Competent | Expert
+ :--|:--|:--
+Basic knowledge of measuring app performance with Xcode instruments. Object Graph, Network Link Conditioner. UI optimization (opaque views, fat XIBs, image sizes, main thread blockers, layers vs paths etc) | Optimization modes in Xcode, whole module optimization, gzip compression, lazy load and reuse of views, caching, tableview and collectionview optimization, date formatters | Memory warnings handling, speeding up app launch time (static vs dynamic libraries, merging several frameworks into one monolithic) |
+
+## Architecture Patterns
+
+Qualified | Competent | Expert
+:--|:--|:--
+Delegate, MVC, observer, chain of responsibility, Singleton. | MVP, MVVM, VIPER, VIP, Router. State, Strategy, Visitor. Abstract Factory, Factory Method, Builder. Adapter, Decorator, Facade. | Flux, Redux. Mediator, Memento, Command, Prototype, Proxy |
+
+## Functional/Reactive programming
+
+Qualified | Competent | Expert
+:--|:--|:--
+Basic knowledge. Recursion | RxSwift/ReactiveCocoa/ReactiveSwift/ReactiveKit, higher order functions. | Futures&Promises. Pure functions. Complete understanding of reactive approach. Functors, Applicatives and Monads. |
+
+## Hardware & Media
+
+Qualified | Competent | Expert
+:--|:--|:--
+Basic AVFoundation, CoreBluetooth, AVKit | Core Audio. Advanced AVFoundation, CoreBluetooth, AVKit. WebKit. Core Telephony, Core Media | Core Motion, IOKit, Compression |
+
+## Other
+
+Qualified | Competent | Expert
+:--|:--|:--
+Basic MapKit & CoreLocation. Basic socials integration. Sharing | AddressBook, AddressBookUI, Messages, MessagesUI, Advanced MapKit & CoreLocation. Advanced socials integration. | In-app purchases |
+
+## Optionals
+
+Qualified | Competent | Expert
+:--|:--|:--
+App extensions | tvOS, watchOS, SpriteKit, SceneKit, HomeKit, HealthKit, EventKit | Metal, CoreGraphics, OpenGL, cross-platform development |
+
+## Hype-driven development
+
+Qualified | Competent | Expert
+:--|:--|:--
+ |  | ARKit, VR, CryptoTokenKit, SiriKit |
