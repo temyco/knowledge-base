@@ -60,17 +60,6 @@ Qualified | Competent | Expert
 :--|:--|:--
 UIViewController lifecycle, iOS app lifecycle, NotificationCenter |  Working with filesystem, background modes, xcode project structure |  |
 
-## Multithreading
-
-Qualified | Competent | Expert
-:--|:--|:--
-*Grand Central Dispatch* | |
-basic knowledge about multithreading and concurrent programming, deadlocks, race conditions. async vs sync, main vs background |  Dispatch queues, units of work, prioritizing, quality of service, timing (time & after) | Dispatch groups, semaphores, dispatch I/O, dispatch sources |
-*NSOperation* | |
-basic knowledge about multithreading and concurrent programming, deadlocks, race conditions. |  Operation executing, cancelling and configuring. Operation states. NSOperationQueue. Subclassing and overriding. BlockOperation | Operation dependencies,
-NSOperationQueue |
-*Thread (NSThread)* | |
-| | Ability to work with Thread. Initializing, starting/stopping, state handling, prioritizing. Locks, NSRunLoop |
 
 ## Multithreading
 
@@ -79,8 +68,7 @@ Qualified | Competent | Expert
 *Grand Central Dispatch* | |
 basic knowledge about multithreading and concurrent programming, deadlocks, race conditions. async vs sync, main vs background |  Dispatch queues, units of work, prioritizing, quality of service, timing (time & after) | Dispatch groups, semaphores, dispatch I/O, dispatch sources. Interprocess communication, XPC Services |
 *NSOperation* | |
-basic knowledge about multithreading and concurrent programming, deadlocks, race conditions. |  Operation executing, cancelling and configuring. Operation states. NSOperationQueue. Subclassing and overriding. BlockOperation | Operation dependencies,
-NSOperationQueue |
+basic knowledge about multithreading and concurrent programming, deadlocks, race conditions. |  Operation executing, cancelling and configuring. Operation states. NSOperationQueue. Subclassing and overriding. BlockOperation | Operation dependencies, NSOperationQueue |
 *Thread (NSThread)* | |
 | | Ability to work with Thread. Initializing, starting/stopping, state handling, prioritizing. Locks, NSRunLoop. |
 
