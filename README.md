@@ -52,8 +52,7 @@ Alamofire, mappers | Moya , CFNetwork|
 
 Qualified | Competent | Expert
 :--|:--|:--
-Understanding of code signing, provisioning profiles,
-app schemes configuration. Launching app on device | Working with iTunes Connect, App Review Guidelines. Build automation, beta-testing tools and deployment platforms. Fastlane | Advanced automation skills (plugins, scripts)
+Understanding of code signing, provisioning profiles, app schemes configuration. Launching app on device | Working with iTunes Connect, App Review Guidelines. Build automation, beta-testing tools and deployment platforms. Fastlane | Advanced automation skills (plugins, scripts)
 
 ## iOS essentials
 
@@ -101,8 +100,7 @@ Basic knowledge of unit tests |  Complex unit tests, XCTest, Quick/Nimble (Kiwi 
 
 Qualified | Competent | Expert
 :--|:--|:--
- | xcodebuild, xcrun. Targets, bundles, frameworks, libraries. pbxproj, xcconfig, xcodeproj, xcworkspace, xcscheme, xctoolchain. Build phases, shell scripts, build rules, build configurations. | lldb, lipo, llbuild, swift package manager, linker.
-Flags |
+ | xcodebuild, xcrun. Targets, bundles, frameworks, libraries. pbxproj, xcconfig, xcodeproj, xcworkspace, xcscheme, xctoolchain. Build phases, shell scripts, build rules, build configurations. | lldb, lipo, llbuild, swift package manager, linker. Flags |
 
 ## Security
 
