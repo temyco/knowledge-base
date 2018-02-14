@@ -128,10 +128,4 @@ Basic MapKit & CoreLocation. Basic socials integration. Sharing | AddressBook, A
 
 Qualified | Competent | Expert
 :--|:--|:--
-App extensions | tvOS, watchOS, SpriteKit, SceneKit, HomeKit, HealthKit, EventKit | Metal, CoreGraphics, OpenGL, cross-platform development |
-
-## Hype-driven development
-
-Qualified | Competent | Expert
-:--|:--|:--
- |  | ARKit, VR, CryptoTokenKit, SiriKit |
+App extensions | tvOS, watchOS, SpriteKit, SceneKit, HomeKit, HealthKit, EventKit | Metal, CoreGraphics, OpenGL, cross-platform development, ARKit CryptoTokenKit, SiriKit |
