@@ -1,6 +1,4 @@
-## iOS Competency
-
-### iOS Knowledge Matrix
+# iOS Knowledge Matrix
 
 
 ## User Interface
@@ -14,7 +12,7 @@ xibs and/vs storyboards, custom UI elements in xibs and storyboards, file's owne
 *Animations* | |
 animations via autolayout, UIView.animate, CALayer, CAAnimation | facebook pop, UIDynamics, 3D animations, UIViewPropertyAnimator, CADisplayLink | SpriteKit? Adobe After Effects?
 *Other* | |
-Localizations<br/>[HIG](https://developer.apple.com/ios/human-interface-guidelines/overview/) | Internationalization i18n, i10 |
+Localizations<br/>[HIG](https://developer.apple.com/ios/human-interface-guidelines/overview/) | Internationalization i18n & Localisation l10n |
 
 ## Data persistence
 
