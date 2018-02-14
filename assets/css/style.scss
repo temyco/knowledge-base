@@ -16,6 +16,19 @@ header {
 
 body {
   background: #ffffff;
+  
+  .button {
+    border: 0px;
+    background: #ffffff;
+    background-color: #ffffff;
+    border-radius: 0px;
+    color:#000000;
+
+    &:hover {
+      background: #e0e0e0;
+      background-color: #e0e0e0;
+    }
+  }
 }
 
 
