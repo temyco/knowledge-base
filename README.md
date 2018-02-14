@@ -94,10 +94,10 @@ Qualified | Competent | Expert
 :--|:--|:--
  | Keychain, iOS security guidelines, TouchID, FaceID | Security framework - authorization and authentication, code signing, cryptography, result codes. Secure coding guide. iOS security overview |
  
- ## Performance
+## Performance
  
- Qualified | Competent | Expert
- :--|:--|:--
+Qualified | Competent | Expert
+:--|:--|:--
 Basic knowledge of measuring app performance with Xcode instruments. Object Graph, Network Link Conditioner. UI optimization (opaque views, fat XIBs, image sizes, main thread blockers, layers vs paths etc) | Optimization modes in Xcode, whole module optimization, gzip compression, lazy load and reuse of views, caching, tableview and collectionview optimization, date formatters | Memory warnings handling, speeding up app launch time (static vs dynamic libraries, merging several frameworks into one monolithic) |
 
 ## Architecture Patterns
