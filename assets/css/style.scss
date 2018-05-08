@@ -49,14 +49,14 @@ blockquote {
 td {
   border-bottom:1px solid #e5e5e5;
   border-right: 1px solid #e5e5e5;
-
-  &:hover {
-      color: #666;
-      text-decoration: underline;
-  }
   
   &:first-child {
     border-left: 1px solid #e5e5e5;
+  }
+  
+  a {
+      color: #666;
+      text-decoration: underline;
   }
 }
 
