@@ -15,11 +15,11 @@ Every topic in the matrix is split into the three levels:
 
 Qualification levels are accumulative, meaning that Expert level includes all information from Qualified and Competent level. 
 
-## Purpose of the Knowledge Matrix
-Knowledge Matrix was created to self-check own knowledge on the discipline for the Engineers at Temy. It is also used to qualify Engineers to participate in diffirent projects. Topics from the matrix often contain links to the documentation or other materials to support learning.
+## Purpose of the Knowledge Base
+Knowledge Base was created to self-check own knowledge on the discipline for the Engineers at Temy. It is also used to qualify Engineers to participate in diffirent projects. Topics from the matrix often contain links to the documentation or other materials to support learning.
 
 ## How do we maintain it?
-Knowledge Matrix is created and maintaned by technology experts at Temy as part of the Competence Center. It is updated on the regular basis with the development of Software Engineering disciplines. You may find source code of the matrix and contributors on the [Github repository]({{ site.github.repository_url }})
+Knowledge Base is created and maintaned by technology experts at Temy as part of the Competence Center. It is updated on the regular basis with the development of Software Engineering disciplines. You may find source code of the matrix and contributors on the [Github repository]({{ site.github.repository_url }})
 
 ## License
-Temy Knowledge Matrix is open source under GNU GPL v3 [license](/license). 
+Temy Knowledge Base is open source under GNU GPL v3 [license]({{ site.github.repository_url }}/blob/master/LICENSE). 
